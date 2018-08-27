@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1535411775 source:c:\users\user\documents\trabgrafos\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<string>
+	<sstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<utility>
+	"Grafo.h"
+	"No.h"
+
+1535401863 source:c:\users\user\documents\trabgrafos\src\no.cpp
+	"No.h"
+
+1535411788 c:\users\user\documents\trabgrafos\include\no.h
+
+1535408629 source:c:\users\user\documents\trabgrafos\src\aresta.cpp
+	"Aresta.h"
+	"No.h"
+
+1535404855 c:\users\user\documents\trabgrafos\include\aresta.h
+	"No.h"
+
+1535408618 source:c:\users\user\documents\trabgrafos\src\grafo.cpp
+	"Grafo.h"
+	<list>
+	"Aresta.h"
+	"No.h"
+
+1535404462 c:\users\user\documents\trabgrafos\include\grafo.h
+	<list>
+	"No.h"
+	"Aresta.h"
+	<iostream>
+
